@@ -6,15 +6,6 @@ This repository documents my full learning journey at **Route Academy** in the *
 
 ---
 
-## 🏫 About Route Academy
-
-- More than **120 certified instructors**.  
-- Branches in **Cairo, Giza, and Alexandria**.  
-- Over **35,000 students** trained and employed in top companies (Microsoft, Vodafone, Siemens, Amazon...).  
-- **Accredited by The Egyptian Engineers Syndicate**.  
-- Offers multiple programs: Full Stack Web, Mobile, AI, UX/UI, DevOps, Software Testing, and more.
-
----
 
 ## 🧠 About This Diploma
 
