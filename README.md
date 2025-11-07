@@ -84,17 +84,6 @@ route-academy-tasks/
 
 ---
 
-## 🧭 Learning Goals
-
-* Build responsive and interactive web interfaces.
-* Write clean and maintainable code following OOP and SOLID principles.
-* Develop APIs using ASP.NET.
-* Implement authentication and authorization using JWT.
-* Understand and apply design patterns.
-* Work with databases using SQL Server and Entity Framework.
-* Create and deploy full-stack projects.
-
----
 
 ## 🧑‍💻 My Setup
 
