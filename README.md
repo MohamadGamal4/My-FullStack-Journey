@@ -148,3 +148,107 @@ route-academy-tasks/
 │  ├─ 02_ASP_NET/
 │  └─ ...
 └─ assets/
+
+
+
+
+
+
+
+
+----------------------------
+
+
+
+
+
+
+
+
+
+
+تمام، دي النسخة الكاملة بعد إضافة قسم الـ **📅 Timeline** بشكل منظم واحترافي. كلها Markdown 100% من غير أي كلام عربي أو كود خارج الصيغة:
+
+```md
+# 🧭 Route Academy – Full Stack Diploma Tasks
+
+This repository contains all my weekly tasks and projects during the Full Stack (Angular + .NET) diploma at **Route Academy**.  
+Duration: **1 year** — *6 months Frontend + 6 months Backend*.
+
+---
+
+## 📁 Repository Structure
+
+```
+
+route-academy-tasks/
+│
+├── README.md
+│
+├── 1_Frontend/
+│   ├── 01_HTML/
+│   ├── 02_CSS/
+│   ├── 03_JS/
+│   ├── 04_Bootstrap/
+│   ├── 05_Angular/
+│   └── ...
+│
+├── 2_Backend/
+│   ├── 01_CSharp/
+│   ├── 02_ASP_NET/
+│   ├── 03_EntityFramework/
+│   ├── 04_APIs/
+│   └── ...
+│
+└── assets/
+
+```
+
+---
+
+## 🎯 Learning Goals
+
+- Build responsive and interactive web interfaces.  
+- Write clean and maintainable code following OOP and SOLID principles.  
+- Develop APIs using ASP.NET.  
+- Implement authentication and authorization using JWT.  
+- Understand and apply design patterns.  
+- Work with databases using SQL Server and Entity Framework.  
+- Create and deploy full-stack projects.
+
+---
+
+## 🧰 My Setup
+
+- **Editor:** VS Code + Visual Studio 2022  
+- **Version Control:** Git / GitHub  
+- **Package Managers:** npm, NuGet  
+- **OS:** Windows 10  
+- **Database:** SQL Server  
+
+---
+
+## 📅 Timeline
+
+| Phase | Weeks | Topics |
+|-------|--------|--------|
+| Frontend | 1–2 | HTML |
+| Frontend | 3–7 | CSS + Bootstrap |
+| Frontend | 8–14 | JavaScript |
+| Frontend | 15–24 | Angular |
+| Backend | 25–28 | C# Fundamentals |
+| Backend | 29–40 | ASP.NET Core + APIs |
+| Backend | 41–46 | Entity Framework + SQL Server |
+| Full Stack | 47–52 | Final Full Stack Project |
+
+---
+
+## 🚀 Notes
+
+- Weekly tasks will be organized inside `1_Frontend` or `2_Backend`.  
+- Major projects every ~2 months will have their own separate repository **and** a copy here for reference.  
+- The repository will evolve continuously as the diploma progresses.
+```
+
+تحب أزوّده كمان بشعار بسيط في الأول (زي Logo أو Banner ASCII) أو Badgeات GitHub (زي "Made with ❤️ using VS Code" أو "Language count")؟ بيدي شكل احترافي جدًا في الصفحة الرئيسية.
+
