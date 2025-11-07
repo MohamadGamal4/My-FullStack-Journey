@@ -96,12 +96,6 @@ route-academy-tasks/
 
 ---
 
-## 📜 License
-
-This repository is licensed under the **MIT License** — feel free to explore and learn from it.
-
----
-
 ## 📬 Contact Me
 
 * **GitHub:** [github.com/your-username](https://github.com/your-username)
