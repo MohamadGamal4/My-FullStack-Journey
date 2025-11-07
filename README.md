@@ -267,7 +267,7 @@ route-academy-tasks/
 
 
 
-````markdown
+
 # 🎓 My Full Stack Diploma Journey @ Route Academy
 
 Hi there 👋  
@@ -359,9 +359,6 @@ route-academy-tasks/
 │  ├─ 02_ASP_NET/
 │  └─ ...
 └─ assets/
-````
-
----
 
 ## 🧭 Learning Goals
 
@@ -373,7 +370,6 @@ route-academy-tasks/
 * Work with databases using SQL Server and Entity Framework.
 * Create and deploy full-stack projects.
 
----
 
 ## 🧑‍💻 My Setup
 
@@ -384,13 +380,13 @@ route-academy-tasks/
 * **Database:** SQL Server
 * **Server:** IIS / Localhost
 
----
+
 
 ## 📜 License
 
 This repository is licensed under the **MIT License** — feel free to explore and learn from it.
 
----
+
 
 ## 📬 Contact Me
 
@@ -398,7 +394,7 @@ This repository is licensed under the **MIT License** — feel free to explore a
 * **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 * **Email:** [your-email@example.com](mailto:your-email@example.com)
 
----
+
 
 > 🚀 *“Every line of code you write is a brick in your future career — build wisely.”*
 
