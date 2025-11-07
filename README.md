@@ -1,5 +1,5 @@
 # My-FullStack-Journey
-All projects, tasks, and assignments for my Full Stack (.NET &amp; Angular) diploma at Route Academy.
+"My 1-Year Full Stack Diploma at Route Academy (.NET & Angular). This repository tracks all my weekly tasks, notes, and progress from HTML/CSS to advanced Backend concepts."
 
 
 # رحلتي في كورس الـ Full Stack (.NET & Angular)
