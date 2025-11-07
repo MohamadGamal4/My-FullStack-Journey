@@ -99,7 +99,7 @@ route-academy-tasks/
 ## 📬 Contact Me
 
 * **GitHub:** [github.com/your-username](https://github.com/MohamadGamal4/)
-* **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamadgamalmohamad/))
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamadgamalmohamad/))
 * **Email:** [your-email@example.com](mailto:mohamadgamal414@gmail.com)
 
 ---
