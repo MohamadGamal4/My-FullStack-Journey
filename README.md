@@ -1,6 +1,3 @@
-# My-FullStack-Journey
-"My 1-Year Full Stack Diploma at Route Academy (.NET & Angular). This repository tracks all my weekly tasks, notes, and progress from HTML/CSS to advanced Backend concepts."
-
 # 🎓 My Full Stack Diploma Journey @ Route Academy
 
 Hi there 👋  
